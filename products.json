@@ -35,4 +35,13 @@
     "desc": "Membres\u00eda premium 1 mes.",
     "image": "assets/placeholder.svg"
   }
-]
+],
+  {
+    "id": "netf1m",
+    "name": "Netflix 1 Mes",
+    "price": 450,
+    "currency": "RD$",
+    "category": "netflix",
+    "desc": "Membres\u00eda premium 1 mes.",
+    "image": "assets/placeholder.svg"
+  }
