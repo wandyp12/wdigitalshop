@@ -1,0 +1,38 @@
+[
+  {
+    "id": "psn50",
+    "name": "Gift Card PSN $50",
+    "price": 1000,
+    "currency": "RD$",
+    "category": "psn",
+    "desc": "C\u00f3digo digital instant\u00e1neo.",
+    "image": "assets/placeholder.svg"
+  },
+  {
+    "id": "xbox1m",
+    "name": "Xbox Game Pass 1 mes",
+    "price": 950,
+    "currency": "RD$",
+    "category": "xbox",
+    "desc": "Suscripci\u00f3n digital.",
+    "image": "assets/placeholder.svg"
+  },
+  {
+    "id": "robux800",
+    "name": "Robux 800",
+    "price": 700,
+    "currency": "RD$",
+    "category": "roblox",
+    "desc": "Recarga segura.",
+    "image": "assets/placeholder.svg"
+  },
+  {
+    "id": "netflix1m",
+    "name": "Netflix 1 Mes",
+    "price": 450,
+    "currency": "RD$",
+    "category": "netflix",
+    "desc": "Membres\u00eda premium 1 mes.",
+    "image": "assets/placeholder.svg"
+  }
+]
