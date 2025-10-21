@@ -1,0 +1,37 @@
+{
+  "storeName": "WDigitalShop",
+  "tagline": "Tu tienda digital de confianza",
+  "primaryColor": "#5B2BFF",
+  "accentColor": "#00E887",
+  "contact": {
+    "whatsapp_number_international": "+18090000000",
+    "instagram": "https://instagram.com/wdigitalshop",
+    "email": "ventas@wdigitalshop.com"
+  },
+  "categories": [
+    {
+      "id": "psn",
+      "label": "PSN"
+    },
+    {
+      "id": "xbox",
+      "label": "Xbox"
+    },
+    {
+      "id": "steam",
+      "label": "Steam"
+    },
+    {
+      "id": "roblox",
+      "label": "Roblox"
+    },
+    {
+      "id": "amazon",
+      "label": "Amazon"
+    },
+    {
+      "id": "netflix",
+      "label": "Netflix"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+body{font-family:Arial;background:#0f0821;color:white;text-align:center;margin:0;padding:0}
+header{padding:20px;background:#1a1233}
+#grid{display:flex;flex-wrap:wrap;justify-content:center;gap:15px;padding:20px}
+.card{background:#1a1233;border-radius:10px;padding:10px;width:180px;transition:.2s}
+.card:hover{transform:scale(1.05);box-shadow:0 0 10px #5B2BFF}
+.card img{width:100%;border-radius:8px}
+button{background:#00E887;color:black;border:none;padding:8px 10px;border-radius:6px;cursor:pointer;font-weight:bold;margin-top:6px}
